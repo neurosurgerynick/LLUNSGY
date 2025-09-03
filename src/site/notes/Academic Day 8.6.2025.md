@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-8-6-2025/"}
+{"dg-publish":true,"permalink":"/academic-day-8-6-2025/","created":"2025-08-06T08:23:20.721-07:00","updated":"2025-09-03T07:28:03.488-07:00"}
 ---
 
 
