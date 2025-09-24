@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-8-6-2025/","created":"2025-08-06T08:23:20.721-07:00","updated":"2025-09-03T07:28:03.488-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-8-6-2025/","created":"2025-08-06T08:23:20.721-07:00","updated":"2025-09-21T19:53:38.626-07:00"}
 ---
 
 
@@ -27,49 +27,19 @@ Pain in the legs, worsened by exertion
 Leaning forward when walking uphill, is the shopping cart sign
 
 > Anterolisthesis vs. Spondylolisthesis vs. Spondylosis
-> spondylosis implies that there is narrowing of the spinal canal
+> spondylosis implies that there is Narrowing of the spinal canal
 
 Go read this: https://insightsimaging.springeropen.com/articles/10.1007/s13244-017-0584-z
 
-## OPLL; ossification of the posterior longitudinal ligament
-Often called the Japanese disease due to prevalence
-	Also middle easterns
-Ectopic bone formation in the spinal ligaments, most commonly C3-4 to C6-7, gets thicker over time
-In the C spine, M:F is 2:1, in T spine F>M
-Patients present in the **6th** decade with symptoms
-key chromosome is **6p**, **PLZF, CBFA1**: ischemia of the spinal cord
-	neck pain
-	dysethesias
-	weakness
-	clumsiness of the hands
-	spasticity
-	Ataxic gait
-Encourage patients that they cannot ignore this pathology
-	Would you like to take care of this now, that you have mild symptoms and a mild risk of new arm paralysis
-	or would you like to take care of this 10 years down the road, when you are older and sicker, and you have a significant risk of arm paralysis
-Patients with canal stenosis >14mm may not have myelopathic symptoms, because their body is essentially autofusing itself to help itself out, that way there is no dynamic compression of the spinal cord
-It has been noted that patients with a spinal canal smaller than 6 mm are likely to develop myelopathy, while those with a spinal canal greater than 14 mm are usually asymptomatic
 
-## Workup
-Get a CT myelogram if you suspect that the OPLL has invaded the dura, as you might have to do a large reconstruction
-the "double mushroom sign" or "double layer sign" is indicative that the OPLL has invaded the dura
-![Pasted image 20250806094200.png](/img/user/assets/Pasted%20image%2020250806094200.png)
+[[Cervical Spondylotic Myelopathy (CSM) and OPLL#OPLL as a cause of CSM\|Cervical Spondylotic Myelopathy (CSM) and OPLL#OPLL as a cause of CSM]]
 
-## Radiographic Classification of OPLL
-![Pasted image 20250806092638.png](/img/user/assets/Pasted%20image%2020250806092638.png)
+[[Cervical Spondylotic Myelopathy (CSM) and OPLL#Classifications\|Cervical Spondylotic Myelopathy (CSM) and OPLL#Classifications]]
 
-## JOA scale for OPLL
-![Pasted image 20250806092458.png](/img/user/assets/Pasted%20image%2020250806092458.png)
-## Myelopathy scales
-Nurick Classification
-![Pasted image 20250806092322.png](/img/user/assets/Pasted%20image%2020250806092322.png)
-Ranawat Classification
-![Pasted image 20250806092404.png](/img/user/assets/Pasted%20image%2020250806092404.png)
-
-## Treatments
-Fusion WITHOUT decompression - indicated for patients with dynamic myelopathy only
-Anterior corpectomy - indicated for the patient with a kyphotic deformity
-Laminoplasty - indicated for cervical only OPLL due to the lordosis, the spinal cord drifts backwards. Lower rate of kyphotic deformity 8% when compared to laminectomy 45% due to maintenance of the posterior tension band
+## Treatment options
+Fusion WITHOUT decompression - indicated for patients with Dynamic myelopathy only
+Anterior Corpectomy - indicated for the patient with a kyphotic deformity
+The rate of kyphotic deformity from laminoplasty, which maintains the posterior tension band, is 8% when compared to 45% with laminectomy
 ## Anterior corpectomy steps
 >80% of the risk is the exposure, if this person has a really fat neck, the anterior approach will be very complicated and you should go with the suboptimal approach
 Patient factors will make you choose the safer approach for the patient. Esophageal injuries are more common when ENT does the exposure in personal experience

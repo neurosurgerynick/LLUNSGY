@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dystonia/","created":"2025-09-17T09:52:39.853-07:00","updated":"2025-09-17T09:57:53.796-07:00"}
+{"dg-publish":true,"permalink":"/dystonia/","created":"2025-09-17T09:52:39.853-07:00","updated":"2025-09-17T10:14:12.185-07:00"}
 ---
 
 
@@ -26,3 +26,13 @@ Brain injury
 Idiopathic
 
 All of these varying injuries cause the **exact same phenotype** which lends insight into how the motor pathway works
+
+
+## Outcomes
+Increased metabolic demands 
+	Cachexia
+		Nutritional immunocompromise
+			Pneumonia
+				Death
+
+

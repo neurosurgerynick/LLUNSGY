@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-09-17-2025/","created":"2025-09-17T07:52:45.076-07:00","updated":"2025-09-17T09:52:35.750-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-09-17-2025/","created":"2025-09-17T07:52:45.076-07:00","updated":"2025-09-17T11:00:43.748-07:00"}
 ---
 
 ## Presurgical Conference
@@ -68,4 +68,18 @@ Gross Motor Function Classification System: most globally used for grading cereb
 
 
 
+
+## Resident Board Review
+
+AT/RT chromosome 22 SMARCB1
+Children <1 year of age
+Characteristic location in the CP angle
+
+Rhizopus vs. Aspergillus
+	90 degree branching versus 45 degree branching
+
+Phosphorylated Tau protein: Chronic Traumatic Encephalopathy
+Know your Tauopathies
+
+Microscopic appearance of Germinoma, Teratoma, Yolk sack tumors
 

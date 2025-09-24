@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebrovascular/subarachnoid-hemorrhage/","created":"2024-05-20T17:41:01.717-07:00","updated":"2025-09-10T10:55:17.240-07:00"}
+{"dg-publish":true,"permalink":"/cerebrovascular/subarachnoid-hemorrhage/","created":"2024-05-20T17:41:01.717-07:00","updated":"2025-09-21T15:32:23.248-07:00"}
 ---
 
 
@@ -25,7 +25,7 @@ bilateral radicular leg pain from blood in the subarachnoid space of the lumbar 
 Hunt and Hess scale - percentage survival
 ![Pasted image 20250910103842.png](/img/user/Cerebrovascular/assets/Pasted%20image%2020250910103842.png)
 Majority of patients are HH Grade III, and you should place an [[EVD\|EVD]] 
-[[a_simple_protocol_to_prevent_external_ventricular.26.pdf]]
+![[a_simple_protocol_to_prevent_external_ventricular.26.pdf]]
 
 [[Delayed Cerebral Ischemia; DCI\|Delayed Cerebral Ischemia; DCI]] = Neurologic presentation
 [[Vasospasm\|Vasospasm]] = angiographic narrowing
