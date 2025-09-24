@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-09-24-2025/","created":"2025-09-24T09:22:11.918-07:00","updated":"2025-09-24T09:45:24.862-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-09-24-2025/","created":"2025-09-24T09:22:11.918-07:00","updated":"2025-09-24T10:33:38.037-07:00"}
 ---
 
 ## QI updates
@@ -53,6 +53,8 @@ Admission orders
 	MAP therapy 70-90 for 5 days at most
 	Q1 hour neurochecks
 	Patients must have an arterial line which is an indication for ICU level of care; do not let the SICU reject these patients
+
+## [[Hydrocephalus\|Hydrocephalus]] and [[Normal Pressure hydrocephalus; NPH\|Normal Pressure hydrocephalus; NPH]]
 
 ## Standardized EVD protocol and order set
 [[EVD protocol\|EVD protocol]]

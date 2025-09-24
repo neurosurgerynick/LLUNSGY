@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/normal-pressure-hydrocephalus-nph/","created":"2024-04-24T01:13:11.000-07:00","updated":"2025-09-24T10:28:45.009-07:00"}
+{"dg-publish":true,"permalink":"/normal-pressure-hydrocephalus-nph/","created":"2024-04-24T01:13:11.000-07:00","updated":"2025-09-24T10:40:04.506-07:00"}
 ---
+
+## STRIDE TRIAL
+Ongoing endovascular shunt trial for NPH, placed through the sigmoid/TS
+	There is a small catheter placed into the TS and acts like an arachnoid granulation with a valve placed in the subarachnoid space
 
 
 **Interestingly NPH is the only treatable form of dementia**, wet (incontinence), wobbly (unsteady gait disturbance), wacky (dementia)
 	The wacky is last, and you want to figure out the patient has NPH before the onset of dementia
 		Once set-in will be difficult to reverse
-	As an aside, there are some gene therapies for [[[FTLD; frontotemporal lobe dementia\|[FTLD; frontotemporal lobe dementia]]
+	As an aside, there are some gene therapies for [[FTLD; frontotemporal lobe dementia\|FTLD; frontotemporal lobe dementia]]
 Important to talk about in the community
 [[Hydrocephalus\|Hydrocephalus]] originally ascribed to Hippocrates, hydro-water, kephalus-brain
 **1965 NEJM Adams, Fisher and Hakim, who was a Lebanese living in Columbia first described NPH**
@@ -21,8 +25,6 @@ It is an **unsteady small steppage gait**
 
 Symptoms develop over months with [[Urge incontinence; overactive bladder\|Urge incontinence; overactive bladder]] and are complicated by a wide-based gait disturbance, **the key feature is that the gait is unsteady** sometimes can be wide based or not, can be magnetic or not,  where they really can't get to the bathroom. Not so clear if the urinary incontinence, or the gait disturbance occurs first, months to years before the onset of dementia.
 Do not send these patients for neuropsychology because the dementia is nonspecific
-
-
 ## Management
 go straight to shunt, if the patient has the classic symptoms and enlarged ventricles
 	in other words, if there is **clinical symptoms and radiographic imaging consistent with diagnosis**, if the patient has a clinical presentation of NPH, NO need to do a high-volume LP or admit the patient!
@@ -32,7 +34,7 @@ ETV does NOT work for NPH
 You must start with high to medium pressure valves, if you start low you will be digging yourself out of a hole 
 	Overdrainage of CSF, the brain sinks in, and you can develop subdural hematomas, especially with low pressure valves
 
-Once at low pressure settings, get imaging to ensure that you are not causing a [[Neurotrauma/Subdural hematoma; SDH\|Subdural hematoma; SDH]]
+Once at low pressure settings, **get imaging** to ensure that you are not causing a [[Neurotrauma/Subdural hematoma; SDH\|Subdural hematoma; SDH]]
 
 ## Shunt/Valve failure
 Characterized by return of symptomatology in patients, they again experience unsteady gait and incontinence
@@ -43,9 +45,9 @@ Characterized by return of symptomatology in patients, they again experience uns
 	These patients however, may already be on L-dopa so it's important to ask about these symptoms
 NPH, in contrast, is **unsteadiness/imbalance** on the feet, with a magnetic gait where their feet stick to the ground
 	Parkinsons also presents with bradykinesia, cogwheel rigidity
-[[BPH\|BPH]], also presents with urinary incontinence, and may have large ventricles, do a high volume lumbar puncture to see if the patient gets better by asking the family
+[[Benign Prostatic Hyperplasia; BPH\|Benign Prostatic Hyperplasia; BPH]], also presents with urinary incontinence, and may have large ventricles, do a high volume lumbar puncture to see if the patient gets better by asking the family
 [[Rheumatoid Cervical Myelopathy\|Rheumatoid Cervical Myelopathy]] also presents with unsteady gait, important to rule out
-[[Alzheimer Disease\|Alzheimer Disease]] also has the wet wacky and wobbly triad however the dementia usually occurs first, in NPH the dementia comes very late
+[[Alzheimer Disease; AD\|Alzheimer Disease; AD]] also has the wet wacky and wobbly triad however the dementia usually occurs first, in NPH the dementia comes very late
 	THIS IS CRITICAL TO ASCERTAIN IN THE CLINIC
 
 
