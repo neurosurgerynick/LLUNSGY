@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-09-24-2025/","created":"2025-09-24T09:22:11.918-07:00","updated":"2025-09-24T09:40:45.771-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-09-24-2025/","created":"2025-09-24T09:22:11.918-07:00","updated":"2025-09-24T09:45:24.862-07:00"}
 ---
 
 ## QI updates
@@ -54,3 +54,5 @@ Admission orders
 	Q1 hour neurochecks
 	Patients must have an arterial line which is an indication for ICU level of care; do not let the SICU reject these patients
 
+## Standardized EVD protocol and order set
+[[EVD protocol\|EVD protocol]]
