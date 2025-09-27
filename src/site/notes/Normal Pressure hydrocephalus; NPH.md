@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/normal-pressure-hydrocephalus-nph/","created":"2024-04-24T01:13:11.000-07:00","updated":"2025-09-24T10:40:04.506-07:00"}
+{"dg-publish":true,"permalink":"/normal-pressure-hydrocephalus-nph/","created":"2024-04-24T01:13:11.000-07:00","updated":"2025-09-24T10:42:37.723-07:00"}
 ---
 
 ## STRIDE TRIAL
 Ongoing endovascular shunt trial for NPH, placed through the sigmoid/TS
 	There is a small catheter placed into the TS and acts like an arachnoid granulation with a valve placed in the subarachnoid space
-
 
 **Interestingly NPH is the only treatable form of dementia**, wet (incontinence), wobbly (unsteady gait disturbance), wacky (dementia)
 	The wacky is last, and you want to figure out the patient has NPH before the onset of dementia

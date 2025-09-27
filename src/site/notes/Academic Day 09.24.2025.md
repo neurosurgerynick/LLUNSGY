@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-09-24-2025/","created":"2025-09-24T09:22:11.918-07:00","updated":"2025-09-24T10:33:38.037-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-09-24-2025/","created":"2025-09-24T09:22:11.918-07:00","updated":"2025-09-24T11:24:39.248-07:00"}
 ---
 
 ## QI updates
@@ -58,3 +58,7 @@ Admission orders
 
 ## Standardized EVD protocol and order set
 [[EVD protocol\|EVD protocol]]
+
+
+## TBI 
+[[TBI; Traumatic Brain Injury\|TBI; Traumatic Brain Injury]]
