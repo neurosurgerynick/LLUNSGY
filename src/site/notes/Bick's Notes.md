@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bick-s-notes/","tags":["gardenEntry"],"created":"2025-09-03T07:15:31.034-07:00","updated":"2025-09-27T13:37:05.931-07:00"}
+{"dg-publish":true,"permalink":"/bick-s-notes/","tags":["gardenEntry"],"created":"2025-09-03T07:15:31.034-07:00","updated":"2025-09-27T13:42:44.614-07:00"}
 ---
 
 # Welcome to Bick's Notes
@@ -22,5 +22,6 @@ All information herein may contain errors as this is a living document
 [[Academic Day 09.24.2025\|Academic Day 09.24.2025]]
 
 ## Recently Updated
+
 ![[Recently Updated.base]]
 
