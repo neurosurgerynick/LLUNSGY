@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bick-s-notes/","tags":["gardenEntry"],"created":"2025-09-03T07:15:31.034-07:00","updated":"2025-09-27T13:42:44.614-07:00"}
+{"dg-publish":true,"permalink":"/bick-s-notes/","tags":["gardenEntry"],"created":"2025-09-03T07:15:31.034-07:00","updated":"2025-10-01T08:25:32.539-07:00"}
 ---
 
 # Welcome to Bick's Notes
@@ -12,16 +12,12 @@ All information herein may contain errors as this is a living document
 
 ## Academic Days
 
-[[Academic Day 8.6.2025\|Academic Day 8.6.2025]]
-[[Academic Day 7.23.2025\|Academic Day 7.23.2025]]
-[[Academic Day 7.16.2025\|Academic Day 7.16.2025]]
-[[Academic Day 9.3.2025\|Academic Day 9.3.2025]]
+[[Academic Day 08.06.2025\|Academic Day 08.06.2025]]
+[[Academic Day 07.23.2025\|Academic Day 07.23.2025]]
+[[Academic Day 07.16.2025\|Academic Day 07.16.2025]]
+[[Academic Day 09.03.2025\|Academic Day 09.03.2025]]
 [[Academic Day 11.20.2024\|Academic Day 11.20.2024]]
-[[Academic Day 9.10.2025\|Academic Day 9.10.2025]]
+[[Academic Day 09.10.2025\|Academic Day 09.10.2025]]
 [[Academic Day 09.17.2025\|Academic Day 09.17.2025]]
 [[Academic Day 09.24.2025\|Academic Day 09.24.2025]]
-
-## Recently Updated
-
-![[Recently Updated.base]]
-
+[[Academic Day 10.01.2025\|Academic Day 10.01.2025]]
