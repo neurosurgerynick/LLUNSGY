@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-09-03-2025/","created":"2025-09-03T08:04:36.175-07:00","updated":"2025-09-03T11:07:57.606-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-09-03-2025/","created":"2025-09-03T08:04:36.175-07:00","updated":"2026-02-04T09:46:20.744-08:00"}
 ---
 
 
@@ -48,16 +48,36 @@ Laminectomy and fusion versus Laminoplasty
 	older patients can benefit from laminoplasty
 	unstable spine is bad for laminoplasty, get flexion extension x-rays to evaluate for instability before considering
 
-## Deformity surgery
-Sagittal balance is the most important, a line dropped vertically from the center of the hips
-Key Sagittal Cervical Alignment Parameters
+## Deformity surgery, Spinal Alignment 
+**Sagittal balance** is the most important, a line dropped vertically from the center of the hips
+All our understanding of spine comes from the **pelvic incidence**, which does not change, the rest of the spine takes its shape based on the pelvis
+![[Pasted image 20260204092102.png \| 350]]
+
+![[Pasted image 20260204092153.png \| 500]]
+Pelvic tilt: plumb line from femoral head, to another line pointing to the midpoint of S1
+Sacral Slope: Endplate of S1 to horizontal line
+Pelvic incidence (fixed): Angle between the perpendicular of sacral plane to the femoral head
+
+### Roussouly Classification
+2005, france, determines the native alignment of the spine based on the pelvic incidence
+4 types differentiated by the sacral slope and lumbar lordosis shape
+Type 1 and Type 2: not much lumbar lordosis, lower levels is the arc of the lordosis (L5, L4-5)
+Type 3 and Type 4 (60%): High PI patients, the arc of the lordosis is higher (L4, L3-4)
+
+### T4, L1, Pelvic axis
+Center of gravity should be 
+
+Formula: PI / 2 - 20 = L1PA; Thus for high pelvic incidence patients (60/2-20) = 10 
+![[Pasted image 20260204094109.png \| 400]]
+## Cervical Spinal Alignment
+20-40% Anterior curvature
 1. C2-C7 modified Cobb Angle
 	1. Bottom of C2 endplate and Bottom of C7 endplate and measure angle between the perpendicular lines
 	2. ![Pasted image 20250903093607.png](/img/user/assets/Pasted%20image%2020250903093607.png)
 2. C2-C7 Sagittal Vertical Axis (cSVA)
-	1. DISTANCE FROM BLUMB LINE DROPPED FROM C2 ODONOTOID TO POSTERIOR SUPERIOR CORNER OF C7
-	2. ![Pasted image 20250903093758.png](/img/user/assets/Pasted%20image%2020250903093758.png)
-	3. POOR QUALITY OF LIFE IF >4 CM OF DEFORMITY
+	1. DISTANCE FROM PLUMB LINE DROPPED FROM base of odontoid TO POSTERIOR SUPERIOR CORNER OF C7 
+		1. ![Pasted image 20260204094605.png](/img/user/assets/Pasted%20image%2020260204094605.png)
+		2. POOR QUALITY OF LIFE IF >4 CM OF DEFORMITY
 3. Chin-Brow Vertical Angle (CBVA)
 	1. SHOULD BE <10 DEGREES
 	2. ![Pasted image 20250903093900.png](/img/user/assets/Pasted%20image%2020250903093900.png)

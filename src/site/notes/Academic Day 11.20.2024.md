@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-11-20-2024/","created":"2024-11-20T09:00:27.877-08:00","updated":"2025-09-03T13:19:24.243-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-11-20-2024/","created":"2024-11-20T09:00:27.877-08:00","updated":"2025-10-22T08:24:03.296-07:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 	- seizure ppx
 	- transfuse platelets to correct coagulopathy
 - Lessons: secure chat should have been documented in the note, do not assume that platelets are transfused and keep a close eye on patient that could likely become operative, place the order yourself. Medicine attending did not receive information about the platelets. 
-- DYE: as the attending on call, acute blood is an indication to wake them up and call. Attendings are expected to take call since they were 2nd year residents, their spouses wake up and that's what has to happen. Do not develop a culture as a junior resident where the risk is high. Do not make assumptions. 
+-as the attending on call, acute blood is an indication to wake them up and call. Attendings are expected to take call since they were 2nd year residents, their spouses wake up and that's what has to happen. Do not develop a culture as a junior resident where the risk is high. Do not make assumptions. 
 	- When you get a consult, put a consult stopper into the note as a one-liner: Consult received, will go see the patient, CT reviewed and non-operative, patient requires transfer to the ICU, full note and recommendations to follow. 
 	- Call the attending
 	- Document, do not trust secure chat, it is not legally binding

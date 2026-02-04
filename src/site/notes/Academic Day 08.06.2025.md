@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-08-06-2025/","created":"2025-08-06T08:23:20.721-07:00","updated":"2025-09-27T14:15:17.504-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-08-06-2025/","created":"2025-08-06T08:23:20.721-07:00","updated":"2025-10-15T08:34:09.031-07:00"}
 ---
 
 
@@ -40,11 +40,11 @@ Go read this: https://insightsimaging.springeropen.com/articles/10.1007/s13244-0
 Fusion WITHOUT decompression - indicated for patients with Dynamic myelopathy only
 Anterior Corpectomy - indicated for the patient with a kyphotic deformity
 The rate of kyphotic deformity from laminoplasty, which maintains the posterior tension band, is 8% when compared to 45% with laminectomy
-## Anterior corpectomy steps
->80% of the risk is the exposure, if this person has a really fat neck, the anterior approach will be very complicated and you should go with the suboptimal approach
-Patient factors will make you choose the safer approach for the patient. Esophageal injuries are more common when ENT does the exposure in personal experience
 
-ACDF exposure, anterior to SCM, retract carotid and longissimus laterally
-in the plane between the carotid sheath lateral and 
-conventional discektomy at all levels
+
+[[Spine/Anterior corpectomy\|Anterior corpectomy]]
+
+
+
+
 [[Spine/ACDF\|ACDF]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/academic-day-09-17-2025/","created":"2025-09-17T07:52:45.076-07:00","updated":"2025-09-17T11:00:43.748-07:00"}
+{"dg-publish":true,"permalink":"/academic-day-09-17-2025/","created":"2025-09-17T07:52:45.076-07:00","updated":"2025-10-01T10:58:59.380-07:00"}
 ---
 
 ## Presurgical Conference
@@ -15,7 +15,7 @@ see [[Stroke/acute ischemic stroke\|acute ischemic stroke]]
 CTA
 	stenotic bilateral ICAs
 	Right sided ventriculomegaly related to previous hydrocephalus ex-vacuo from encephalomalacia
-	fragile "puff of smoke" vessels near the Left MCA [[moya moya disease\|moya moya disease]]
+	fragile "puff of smoke" vessels near the Left MCA [[Moya moya disease\|Moya moya disease]]
 [[Superficial Temporal Artery; STA\|Superficial Temporal Artery; STA]] collaterals
 
 Surgical operation: IDAS; no competetive flow as in direct bypass, in this case you must be careful with the [[T2DM\|T2DM]] hemoglobin A1c, and you must be careful about doing bilateral procedures as dual STA bypass can cause ischemia to the scalp even in healthy young patients.

@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/spine/acdf/","created":"2024-04-20T11:56:34.000-07:00","updated":"2025-09-21T15:41:31.034-07:00"}
+{"dg-publish":true,"permalink":"/spine/acdf/","created":"2024-04-20T11:56:34.000-07:00","updated":"2026-02-04T09:06:09.511-08:00"}
 ---
 
 
 
-## positioning
-use a towel underneath the shoulders horizontally to get some lordosis
-Tape under their chin so their head wont turn side to side
-Use a marker to mark their adams apple and sternum and both clavicular heads
+## Positioning
+Supine
+Use a towel underneath the shoulders horizontally to get some lordosis of the neck
+Tape under their chin so their head won't turn side to side
+Use a marker to mark their Adams apple and sternum and both clavicular heads
 Mark out the medial border of the SCA
 
 ## incision
@@ -53,4 +54,9 @@ Most common complication is wound dehiscence and infection
      Contrary to ID beliefs, research does not support in meta analysis that vancomycin increases the gram negative infections
 Best way to reduce wound dehiscence is by using slow-absorbing sutures for fascial closures
      Ethibond or PDS instead of Vicryl
- 
+
+
+## Hardware
+![Pasted image 20260204090556.png](/img/user/Spine/assets/Pasted%20image%2020260204090556.png)
+Synthes Zero Profile
+

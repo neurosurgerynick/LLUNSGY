@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/ms-multiple-sclerosis/","created":"2024-05-14T18:53:10.000-07:00","updated":"2025-09-24T10:36:30.392-07:00"}
+{"dg-publish":true,"permalink":"/ms-multiple-sclerosis/","created":"2024-05-14T18:53:10.000-07:00","updated":"2025-10-15T09:01:38.924-07:00"}
 ---
-
 
 
 **subcutaneous glatiramer to prevent further episodes**
@@ -13,7 +12,14 @@
 monocular blindness due to [[optic neuritis\|optic neuritis]]
 	Optic neuritis is a classic manifestation of MS and is characterized by a central scotoma, afferent pupillary defect, and pale optic disc on examination (which may resolve after the acute episode).
 [[Lhermitte sign \|Lhermitte sign ]]refers to a transient sensation of electric shock triggered by neck flexion, which is a common sign in MS hypothesized to result from spinal cord inflammation.
-[[Trigeminal Neuralgia\|Trigeminal Neuralgia]]
+[[Cerebrovascular/Trigeminal Neuralgia\|Trigeminal Neuralgia]]
+
+
+## Bilateral is highly atypical, indicative of MS
+![Pasted image 20240525165024.png](/img/user/assets/Pasted%20image%2020240525165024.png)
+also can cause a bilateral INO due to where the plaque is located close to the midline, also disrupting the medial longitudinal fasciculus
+![Pasted image 20240525165205.png](/img/user/assets/Pasted%20image%2020240525165205.png)
+
 ## Treatment
 Treatment includes corticosteroids for symptomatic management of acute flares and long-term disease-modifying treatments such as **interferon beta therapy** or monoclonal antibodies.
 	The interferons downregulate immune activity and thereby decrease disease severity and relapse frequency.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pediatric-neurosurgery/myelomeningocele/","created":"2024-05-27T14:56:22.000-07:00","updated":"2025-09-03T13:15:49.370-07:00"}
+{"dg-publish":true,"permalink":"/pediatric-neurosurgery/myelomeningocele/","created":"2024-05-27T14:56:22.000-07:00","updated":"2025-10-15T08:42:13.059-07:00"}
 ---
 
 
@@ -7,10 +7,10 @@
 
 #pediatricneurosurgery 
 
-failure of the neural crest to form posteriorly, a failure of primary neurulation due to [[folic acid deficiency\|folic acid deficiency]] during pregnancy the most severe form of [[spina bifida\|spina bifida]]
-Generally newborns undergo repair within 24-48 hours, unless they are too sick to survive surgery
+Failure of the neural crest to form posteriorly, a failure of primary neurulation due to [[folic acid deficiency\|folic acid deficiency]] during pregnancy the most severe form of [[spina bifida\|spina bifida]]
+Generally, newborns undergo repair within 24-48 hours, unless they are too sick to survive surgery
 	put pt on prophylactic ampicillin and cefepime 
-leads to herniation of the spinal cord from the dorsal defect
+Leads to herniation of the spinal cord from the dorsal defect
 Detected by highly elevated [[alfa fetoprotein aFP\|alfa fetoprotein aFP]] in the amniotic fluid during screening
 Elevated acetylcholinesterase in the amniotic fluid
 

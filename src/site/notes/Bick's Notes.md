@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bick-s-notes/","tags":["gardenEntry"],"created":"2025-09-03T07:15:31.034-07:00","updated":"2025-10-01T08:25:32.539-07:00"}
+{"dg-publish":true,"permalink":"/bick-s-notes/","tags":["gardenEntry"],"created":"2025-09-03T07:15:31.034-07:00","updated":"2025-11-12T09:17:35.126-08:00"}
 ---
 
 # Welcome to Bick's Notes
@@ -21,3 +21,8 @@ All information herein may contain errors as this is a living document
 [[Academic Day 09.17.2025\|Academic Day 09.17.2025]]
 [[Academic Day 09.24.2025\|Academic Day 09.24.2025]]
 [[Academic Day 10.01.2025\|Academic Day 10.01.2025]]
+[[Academic Day 10.15.2025\|Academic Day 10.15.2025]]
+[[Academic Day 10.22.2025\|Academic Day 10.22.2025]]
+[[Academic Day 10.29.2025\|Academic Day 10.29.2025]]
+[[Academic day 11.5.2025\|Academic day 11.5.2025]]
+[[Academic Day 11.12.2025\|Academic Day 11.12.2025]]

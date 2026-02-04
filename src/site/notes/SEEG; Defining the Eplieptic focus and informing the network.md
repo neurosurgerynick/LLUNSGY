@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/seeg-defining-the-eplieptic-focus-and-informing-the-network/","created":"2025-07-16T10:12:39.484-07:00","updated":"2025-09-03T07:43:22.440-07:00"}
+{"dg-publish":true,"permalink":"/seeg-defining-the-eplieptic-focus-and-informing-the-network/","created":"2025-07-16T10:12:39.484-07:00","updated":"2026-01-21T10:16:17.130-08:00"}
 ---
 
 
@@ -18,8 +18,6 @@ Surgical options:
 	![[Pasted image 20250723091612.png \| 300]]
 Positioning: turn the head to 45 degrees, with a bump under the shoulder, some lateral tilting of the head to level out the temporal lobe
 
-
-
 Foville's Circonvolution d'enceinte 
 	continuous ribbon of brain, surrounding the sylvian fissure
 	Involves F3, the supramarginal gyrus, T1
@@ -30,6 +28,8 @@ O1 is continuous with P1
 inferior to the intraparietal sulcus is all eloquent
 Superior to the intraparietal sulcus is not eloquent - you can remove it
 P1 is above the intraparietal sulcus, P2 is below the intraparietal sulcus
+	P1 is non-eloquent and you can resect it
+	P2 is always eloquent and cannot be resectee
 ![Pasted image 20250716102411.png](/img/user/assets/Pasted%20image%2020250716102411.png)
 
 The supramarginal gyrus is the end of the Sylvian fissure
@@ -107,7 +107,6 @@ Non dominant temporal lobe, right sided: non-verbal memory
 
 # key takeaways
 > if there is a lesion, you should remove the lesion, don't listen to the neurologists pontifications about what the seizure types are
-
 
 ## DBS for Epilepsy
 - stimulation of the anterior nucleus of the thalamus, led by robert fischer at stanford (Neurology)

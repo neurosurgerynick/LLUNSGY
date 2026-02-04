@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cerebrovascular/subarachnoid-hemorrhage/","created":"2024-05-20T17:41:01.717-07:00","updated":"2025-09-21T15:32:23.248-07:00"}
+{"dg-publish":true,"permalink":"/cerebrovascular/subarachnoid-hemorrhage/","created":"2024-05-20T17:41:01.717-07:00","updated":"2025-11-05T10:41:22.769-08:00"}
 ---
 
 
@@ -8,10 +8,10 @@
 Headache precipitated by exertion (ie my neck hurts when moving boxes) is extremely concerning even if the CT is negative
 
 CT head blood degrades in the first 2-6 hours
-	proceed with Lumbar puncture for high clinical suspicion
+	Proceed with a Lumbar puncture for high clinical suspicion
 		LP shows xanthochromia due to RBC breakdown, elevated RBCs, elevated opening pressure 
 
-85% of SAH is caused by ruptured aneurysms
+85% of SAH is caused by **ruptured aneurysms**
 ![Pasted image 20240520174122.png](/img/user/assets/Pasted%20image%2020240520174122.png)
 - RIsk factors: women, connective tissue disorders
 
@@ -25,7 +25,8 @@ bilateral radicular leg pain from blood in the subarachnoid space of the lumbar 
 Hunt and Hess scale - percentage survival
 ![Pasted image 20250910103842.png](/img/user/Cerebrovascular/assets/Pasted%20image%2020250910103842.png)
 Majority of patients are HH Grade III, and you should place an [[EVD\|EVD]] 
-![[a_simple_protocol_to_prevent_external_ventricular.26.pdf]]
+
+[[a_simple_protocol_to_prevent_external_ventricular.26.pdf]]
 
 [[Delayed Cerebral Ischemia; DCI\|Delayed Cerebral Ischemia; DCI]] = Neurologic presentation
 [[Vasospasm\|Vasospasm]] = angiographic narrowing
@@ -39,23 +40,37 @@ Do DSA and another DSA 7 days later if negative
 
 ## Management
 [[ULTRA trial\|ULTRA trial]] no change in outcome if you give TXA
-Blood pressure 90-140 until aneurysm secured, then permissive HTN to prevent vasospasm
-	[[Nimodipine\|Nimodipine]] for vasospasm 60mg q4h for 21 days
-Stool softeners!
+
+ICU level of care
+HOB >30 degrees
+Consideration of EVD for hydrocephalus either communicating or noncommunicating
+**Blood pressure 90-140** until aneurysm secured, then permissive HTN to prevent vasospasm
+[[Nimodipine\|Nimodipine]] for vasospasm 60mg q4h for 21 days 	> note that this is for the post-bleed day
+Daily TCDs
+Alert NIR fellow for intent to coil
+Stool softeners
 Monitor CVP, if <7 give NS bolus
 Monitor for infectious problems, important to distinguish saccular and mycotic aneurysms
-Monitor for extra-axial complications: takotsubos cardiomyopathy and neurogenic pulmonary edema, cerebral T waves
+Monitor for extra-axial complications: Takotsubos cardiomyopathy and neurogenic pulmonary edema, cerebral T waves
 Montior for [[CSW; Cerebral salt wasting\|CSW; Cerebral salt wasting]]
 Monitor for seizures, about 6% of patients present with seizures in the first 24 hours, can result in rebleeding
 	Put all patients on Keppra for 7 days
-	if a patient has a seizure, get another CT 
+	If a patient has a seizure, get another CT 
 	Pathway for management of [[convulsive status epilepticus\|convulsive status epilepticus]]
 Dexamethasone for nuchal rigidity
 
 >flow diversion
 
 If patients have a flow diverter they will need DAPT, not great for fresh bleeds
+Reapro or Integrelin 10-15mg intraarterial through microcatheter for aneurysms that have clot encroaching into the parent vessel
 
+Traditionally, a 2:1 is a favorable dome to neck ratio for coiling
+ISAT trial is the most long-term follow up for ruptured aneurysms, better outcomes for coiling patients
+Nowadays, with technological improvments, we can take other variables into account
+In a ruptured aneurysm 25% coil volume is appropriate
+In a non-ruptured aneurysm 30% coil volume is appropriate
+In the acute setting, its better to jsut protect the aneurysm, the dome of the aneurysm
+Later on, 3-6 months later, we can consider stent-assitsed coiling, or flow diversion
 
 ## DDx
 [[herpes simplex virus encephalitis\|herpes simplex virus encephalitis]]: also presents with RBCs, but expect fever and neurologic deficits, which are not always present with a subarachnoid hemorrhage, which presents only with headache and neck stiffness
