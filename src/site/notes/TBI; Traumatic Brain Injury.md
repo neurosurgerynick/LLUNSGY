@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tbi-traumatic-brain-injury/","created":"2024-06-08T23:53:28.000-07:00","updated":"2025-09-24T11:34:39.954-07:00"}
+{"dg-publish":true,"permalink":"/tbi-traumatic-brain-injury/","created":"2024-06-08T23:53:28.000-07:00","updated":"2026-02-04T20:19:30.087-08:00"}
 ---
 
 > Know that there exists:
@@ -41,5 +41,5 @@ Hypoglycemia
 Aki from high chloride from ns - switch to balanced solution early
 ## Adrenal Insufficiency
 increased renin and decreased or inappropriately normal concentration of aldosterone, are suggestive of adrenal insufficiency. Common causes of
-adrenal insufficiency include autoimmune adrenalitis, infections (tuberculosis, histoplasmosis, HIV, Waterhouse-Friedrichsen syndrome with Neisseria meningitidis
+adrenal insufficiency include autoimmune adrenalitis, infections (tuberculosis, [[Histoplasmosis; Histoplasma\|Histoplasmosis; Histoplasma]]], HIV, Waterhouse-Friedrichsen syndrome with Neisseria meningitidis
 infection), malignancy, exogenous steroid use, and traumatic brain injury.

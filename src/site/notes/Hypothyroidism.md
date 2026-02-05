@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hypothyroidism/","created":"2024-05-17T00:04:44.000-07:00","updated":"2025-09-27T09:44:56.441-07:00"}
+{"dg-publish":true,"permalink":"/hypothyroidism/","created":"2024-05-17T00:04:44.000-07:00","updated":"2026-02-04T20:16:46.746-08:00"}
 ---
 
 
@@ -8,19 +8,22 @@
 - delayed relaxation phase of DTRs
 - dry skin
 ## Workup
-TSH is the standard measurement to determine if the patient has hypothyroidism
+**TSH** is the standard measurement to determine if the patient has **hypothyroidism**
 Free T4  is collected in certain situations:
-	1. FT4 is used to monitor levothyroxine requirements for central (pituitary) hypothyroidism, low TSH due to pituitary disorder
-	2. To differentiate between clinical hypothyroidism (high TSH, low FT4) and subclinical hypothyroidism (high TSH, normal FT4)
-		1.  Clinical hypothyroid (low T4) is **primary hypothyroidism** indicating thyroid gland dysfunction
-		2. (Normal FT4, usually suggesting [[Hashimoto Thyroditis; Chronic Lymphocytic Thyroiditis\|Hashimoto Thyroditis; Chronic Lymphocytic Thyroiditis]] if in conjunction with a positive TPO antibody)
-	3. High FT4 and High TSH indicates TSH secreting tumor -> thus referral to endocrinology is warranted
+ FT4 is used to monitor levothyroxine requirements for central (pituitary) hypothyroidism, low TSH due to pituitary disorder
+	 To differentiate between **clinical hypothyroidism** (high TSH, low FT4) and **subclinical hypothyroidism** (high TSH, normal FT4)
+		Clinical hypothyroid (low T4) is **primary hypothyroidism**, indicating thyroid gland dysfunction
+		Normal FT4, usually suggesting [[Hashimoto Thyroditis; Chronic Lymphocytic Thyroiditis\|Hashimoto Thyroditis; Chronic Lymphocytic Thyroiditis]] if in conjunction with a positive TPO antibody)
+			Measure Anti-TPO antibody if the TSH is midly elevated 5-10 and fT4 is normal
+			If There are Anti-TPO antibodies, that indicates a need for treatment
+			Also treat if there is: dyslipidemia, abnormal menstrual cycle, symptoms of hypothyroidism
+	2. High FT4 and High TSH indicates TSH secreting tumor -> thus referral to endocrinology is warranted
 ![Pasted image 20240617134559.png](/img/user/assets/Pasted%20image%2020240617134559.png)
-## Dyslipidemia
+ Dyslipidemia
 reduced hepatic LDL-R expression -> increased LDL, increased total cholesterol [[hypercholesterolemia\|hypercholesterolemia]]
 reduced lipoprotein lipase -> incresed triglycerides
 
-## TSH needs to be checked prior to starting [[Statin Therapy\|Statin Therapy]] to reducethe  risk of statin myopathy
+ TSH needs to be checked prior to starting [[Statin Therapy\|Statin Therapy]] to reducethe  risk of statin myopathy
 
 
 ## Treatment
